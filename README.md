@@ -17,12 +17,12 @@ API RESTful para analisar dados da categoria "Pior Filme" do Golden Raspberry Aw
 
 2. Inicie a aplicação:
    ```
-   node src/app.js
+   npm start
    ```
 
 3. Acesse o endpoint em:
    ```
-   GET http://localhost:3000/producers/intervals
+   GET http://localhost:3000/api/producers/intervals
    ```
 
 ## Exemplo de resposta
